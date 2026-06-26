@@ -1,2 +1,0 @@
--- Mein erstes SQL Projekt
--- das jetzt bearbeitet.
