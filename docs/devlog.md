@@ -3,7 +3,7 @@
 
 ## 2026-06-26
 
-- A MySQL Database in Docker created.
+- Set up a MySQL instance using Docker and linked it to DBeaver.
 - 2 Tables created ( Pokemon, Typ) with Primary Key and Foreign Key.
 
 
